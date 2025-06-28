@@ -1,0 +1,1 @@
+alert('Hallo from javascript_alert.js');
